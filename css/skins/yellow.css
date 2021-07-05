@@ -1,0 +1,7 @@
+:root{
+    --skin-color: #ff9800;
+}
+.event-section .event-item-inner img,
+.footer .footer-content .couple-name img{
+    filter: hue-rotate(45deg);
+}
